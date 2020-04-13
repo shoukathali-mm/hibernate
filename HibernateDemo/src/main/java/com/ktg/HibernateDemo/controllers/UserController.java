@@ -37,5 +37,11 @@ public class UserController {
 	{
 		userService.addUser(user);
 	}
+	
+	public User updateUser()
+	{
+		return null;
+		
+	}
 
 }
