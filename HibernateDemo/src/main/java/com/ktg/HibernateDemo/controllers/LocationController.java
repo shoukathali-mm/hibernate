@@ -36,5 +36,7 @@ public class LocationController {
 	{
 		locationService.addLocation(location);
 	}
+	
+	
 
 }
